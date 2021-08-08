@@ -1,3 +1,5 @@
+dotnet build
+
 rm -r Releases
 mkdir Releases
 
