@@ -1,3 +1,4 @@
+#!/bin/bash
 dotnet build
 
 rm -r Releases
